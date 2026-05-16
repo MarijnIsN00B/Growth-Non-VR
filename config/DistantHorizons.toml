@@ -668,7 +668,7 @@ _version = 4
 			# Experimental:
 			# Enabling this option will increase CPU and harddrive use
 			# and may cause rendering bugs.
-			upsampleLowerDetailLodsToFillHoles = false
+			upsampleLowerDetailLodsToFillHoles = true
 
 	[common.multiThreading]
 		#
@@ -833,4 +833,4 @@ _version = 4
 		# When enabled on the client, this allows loading lower detail levels as needed to speed up terrain generation.
 		# This must also be enabled on the server; otherwise, it will have no effect.
 		# For better performance when switching LOD detail levels, enabling [upsampleLowerDetailLodsToFillHoles] is recommended.
-		enableNSizedGeneration = false
+		enableNSizedGeneration = true
