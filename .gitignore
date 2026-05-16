@@ -1,29 +1,26 @@
 # Ignore runtime stuff
-.replay_cache/
+.fabric/
+.mixin.out/
 coremods/
 crash-reports/
-dumps/
-lightspeed-cache/
-local/
+fancymenu_data/
+fancymenu_setups/
+frozenlib_cape_cache/
 logs/
-mod_data/
+moddata/
 modernfix/
 mods/.index
-replay_recordings/
 saves/
 screenshots/
 server-resource-packs/
 shaderpacks/
-temp/
 texturepacks/
-trees/
-emi.json
 fabricloader.log
+irisUpdateInfo.json
 options.txt
+optionsviveprofiles.txt
 servers.dat
 servers.dat_old
-supportercache.json
-usernamecache.json
 usercache.json
 
 # Ignore launcher-specific files
