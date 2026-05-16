@@ -3,7 +3,7 @@
   "doVRControllerRumble": true,
   "returnItemsWhenLeavingImmersives": true,
   "disableImmersiveMCOutsideVR": false,
-  "bagColor": 11901820,
+  "bagColor": 1.190182E7,
   "rightClickChestInteractions": false,
   "autoCenterFurnaceImmersive": false,
   "autoCenterBrewingStandImmersive": false,
@@ -16,21 +16,21 @@
   "itemGuideSelectedSize": 1.0,
   "itemGuidePreset": "GRAY",
   "itemGuidePrideFlag": "PRIDE",
-  "colorPresetAlpha": 127,
-  "colorPresetSelectedAlpha": 207,
-  "colorPresetRangedGrabSize": 255,
-  "multiColorPresetTransitionTimeMS": 5000,
+  "colorPresetAlpha": 127.0,
+  "colorPresetSelectedAlpha": 207.0,
+  "colorPresetRangedGrabSize": 255.0,
+  "multiColorPresetTransitionTimeMS": 5000.0,
   "itemGuideCustomColorData": {
     "colors": [
-      1670089611
+      1.670089611E9
     ],
     "selectedColors": [
-      2143667653
+      2.143667653E9
     ],
     "rangedGrabColors": [
-      2143667653
+      2.143667653E9
     ],
-    "transitionTimeMS": 5000
+    "transitionTimeMS": 5000.0
   },
   "reachBehindBagMode": "BEHIND_BACK",
   "textScale": 1.0,
@@ -38,7 +38,7 @@
   "useGrabBeaconInVR": true,
   "useGrindMotionGrindstoneInVR": true,
   "dontAutoStepOnImmersiveBlocksInVR": true,
-  "clientConfigVersion": 4,
+  "clientConfigVersion": 4.0,
   "useAnvilImmersive": true,
   "useBrewingStandImmersive": true,
   "useChestImmersive": true,
@@ -59,8 +59,7 @@
   "useFeedingAnimalsImmersive": true,
   "useShulkerImmersive": true,
   "allowPettingAnythingLiving": false,
-  "useShieldImmersive": true,
-  "rangedGrabRange": 8,
+  "rangedGrabRange": 8.0,
   "useBeaconImmersive": true,
   "useBarrelImmersive": true,
   "useThrowingImmersive": true,
@@ -78,5 +77,5 @@
   "useApotheosisSalvagingTableImmersive": true,
   "useGrindstoneImmersive": true,
   "disableVanillaInteractionsForSupportedImmersives": false,
-  "commonConfigVersion": 2
+  "commonConfigVersion": 3
 }

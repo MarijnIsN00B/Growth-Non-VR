@@ -149,6 +149,8 @@
 	#List of block names for use with WHITELIST/BLACKLIST block mode.
 	# Blocks can be of the form 'blockid' for vanilla or 'modid:blockid' for modded blocks
 	blocklist = ["white_wool", "dirt", "grass_block"]
+	#If enabled, hanging on walls with the 'Climb Claws', or jumping with the 'Jump Boots' will cause exhaustion.
+	foodExhaustion = true
 
 #Roomscale Crawling Settings
 [crawling]
@@ -171,6 +173,8 @@
 	#Maximum number of blocks players in Survival mode can teleport horizontally. Set to 0 to disable.
 	# default: 16, min: 1, max: 32
 	horizontalLimit = 16
+	#If enabled, teleporting up blocks will cause exhaustion.
+	foodExhaustion = false
 
 #Worldscale Settings
 [worldScale]
