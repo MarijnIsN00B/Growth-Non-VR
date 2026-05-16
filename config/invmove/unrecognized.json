@@ -1,0 +1,21 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "fabric.net.mca.client.gui.InteractScreen": true,
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.leobeliik.extremesoundmuffler.gui.MufflerScreen": true,
+    "net.minecraft.class_433": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "net.coderbot.iris.gui.screen.ShaderPackScreen": true,
+    "net.minecraft.class_429": true,
+    "de.maxhenkel.voicechat.gui.onboarding.IntroductionOnboardingScreen": true
+  },
+  "hideBackground": {
+    "com.tiviacz.travelersbackpack.client.screen.TravelersBackpackHandledScreen": true,
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "com.leobeliik.extremesoundmuffler.gui.MufflerScreen": true
+  }
+}
